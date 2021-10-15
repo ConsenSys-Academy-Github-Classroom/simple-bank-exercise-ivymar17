@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "screen-capture-recorder": "^3.0.3",
+    "truffle-plugin-debugger": "^0.0.2"
+  }
+}
